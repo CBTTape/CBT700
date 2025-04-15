@@ -1,14 +1,14 @@
-2025-04-13 21:54:18.506273 - Received CBT.V508.FILE700.PDS from FILE700.XMI 
-2025-04-13 21:54:18.507417 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:54:18.507503 - Found $$DOC.txt (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/$$DOC
-2025-04-13 21:54:18.507573 - Found @CONVERT.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/@CONVERT
-2025-04-13 21:54:18.507633 - Found @CURSOR.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/@CURSOR
-2025-04-13 21:54:18.507692 - Found @DATA.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/@DATA
-2025-04-13 21:54:18.507789 - Found @FILE700.txt (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/@FILE700
-2025-04-13 21:54:18.507856 - Found ERASPROF.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/ERASPROF
-2025-04-13 21:54:18.507944 - Found GLUE.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/GLUE
-2025-04-13 21:54:18.508033 - Found PICK.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/PICK
-2025-04-13 21:54:18.508102 - Found SNIP.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/SNIP
-2025-04-13 21:54:18.508167 - Found SNIPSHOT.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/SNIPSHOT
-2025-04-13 21:54:18.508246 - Found STAG.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/STAG
-2025-04-13 21:54:18.508337 - Found SUM.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/SUM
+2025-04-15 04:51:32.635240 - Received CBT.V508.FILE700.PDS from FILE700.XMI 
+2025-04-15 04:51:32.636848 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:51:32.637092 - Found $$DOC.txt (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/$$DOC
+2025-04-15 04:51:32.637510 - Found @CONVERT.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/@CONVERT
+2025-04-15 04:51:32.637769 - Found @CURSOR.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/@CURSOR
+2025-04-15 04:51:32.638025 - Found @DATA.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/@DATA
+2025-04-15 04:51:32.638254 - Found @FILE700.txt (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/@FILE700
+2025-04-15 04:51:32.638473 - Found ERASPROF.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/ERASPROF
+2025-04-15 04:51:32.638766 - Found GLUE.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/GLUE
+2025-04-15 04:51:32.638985 - Found PICK.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/PICK
+2025-04-15 04:51:32.639246 - Found SNIP.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/SNIP
+2025-04-15 04:51:32.639464 - Found SNIPSHOT.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/SNIPSHOT
+2025-04-15 04:51:32.639750 - Found STAG.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/STAG
+2025-04-15 04:51:32.639961 - Found SUM.rexx (text/plain) in CBT.V508.FILE700.PDS, moved to PDS/SUM
